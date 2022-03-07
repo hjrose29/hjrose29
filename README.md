@@ -1,4 +1,6 @@
-### Hi there 👋
+### TLDR: Henry's the name, and making sense out of data is my game!
+
+### All jokes aside, Hi there 👋
 
 ### My name is Henry. I am a Sophomore at Oswego State University who loves data! In fact, the majority of each of my projects are largely from material I have self studied.
 ### My strongest skill's are Python🐍 and Java, however, understanding/visualizing📊 relational databases through MySQL and Tableau are not far behind!

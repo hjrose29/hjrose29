@@ -1,6 +1,6 @@
 ### TLDR: I'm Henry, a Computer Science and Statistics student at Oswego State University - I'm spending my 2023 Summer with JP Morgan, and am currently looking for Fall(2023) and Spring(2024) Co-Ops.
 
-### All jokes aside, Hi there 👋
+### Hi there 👋
 
 ### My name is Henry. I am a Sophomore at Oswego State University who loves data! In fact, the majority of each of my projects are largely from material I have self studied.
 ### My strongest skill's are Python🐍 and Java, however, understanding/visualizing📊 relational databases through MySQL and Tableau are not far behind!

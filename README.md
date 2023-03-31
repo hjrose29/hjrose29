@@ -1,4 +1,4 @@
-### TLDR: Henry's the name, and making sense out of data is my game!
+### TLDR: I'm Henry, a Computer Science and Statistics student at Oswego State University - I'm spending my 2023 Summer with JP Morgan, and am currently looking for Fall(2023) and Spring(2024) Co-Ops.
 
 ### All jokes aside, Hi there 👋
 

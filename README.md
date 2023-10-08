@@ -6,7 +6,7 @@
 ### My strongest skill's are Python🐍 and Java, however, understanding/visualizing📊 relational databases through MySQL and Tableau are not far behind!
 ### Aside from Computer Science, I have a love for running 🏃‍♂️ (NCAA T&F and XC) alongside nature(Proud Eagle Scout🦅) and want to explore the world some day as I believe every culture has something amazing and unique to offer! Only once we become culturally diverse and knowledgeable can we truly grow globally and in all aspects of our lives!
 
-### I am currently searching for an internship where I can continue to grow my skills while making a towards a large difference in society.
+### I am currently searching for an internship where I can continue to grow my skillsets!
 
 ### I hope you find a project you like!
 

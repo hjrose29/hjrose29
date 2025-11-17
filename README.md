@@ -1,4 +1,4 @@
-### TLDR: I'm Henry, a Computer Science and Statistics new grad from Oswego State University - I'm in the CLDP Rotational Program at JP Morgan Chase in NYC.
+### TLDR: I'm Henry, a Computer Science and Statistics new grad from Oswego State University - I'm in the Chase Leadership Development Program at JP Morgan Chase in NYC.
 
 ### Hi there 👋
 
